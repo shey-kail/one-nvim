@@ -173,7 +173,7 @@ local highlight_groups = {
      WarningMsg   = { fg = hue_5 },
      TooLong      = { fg = hue_5 },
      WildMenu     = { fg = mono_1, bg = mono_3 },
-     SignColumn   = { fg = none, bg = none },
+     SignColumn   = normal,
      Special      = { fg = hue_2 },
 
 ---------------------------
